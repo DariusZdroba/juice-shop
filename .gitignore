@@ -42,7 +42,9 @@ frontend/src/**/*.js
 # IDEs
 .idea/
 .vscode/
+.vs/
 out/
+.project
 *.eml
 *.iml
 *.iws
