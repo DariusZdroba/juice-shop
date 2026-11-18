@@ -1,1 +1,1 @@
-Opened by a local github-agent to test autoMerge.
+Second run: a required check is expected to fail.
